@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Wei Xie
         Research Group
       image:
-        filename: welcome.jpg
+        filename: 1.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Wei Xie Research Group** has been a center of excellence for Automation research, teaching, and practice since its founding.
   
   - block: collection
     content:
