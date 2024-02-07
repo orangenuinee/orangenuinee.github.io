@@ -17,13 +17,13 @@ publishDate: "2021-11-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE CONTROL SYSTEMS LETTERS*"
+publication: "*IEEE CONTROL SYSTEMS LETTERS*, 2021"
 publication_short: "*L-CSS*"
 
 abstract: Knowing the vehicle’s parameters (e.g., mass, moment of inertia) in advance is not always possible in quadrotor control applications, especially if we use the quadrotor for cargo transportation. Uncertain cargo weight and size together with external disturbances may result in closed-loop performance degradation or even instability. In light of this problem, this letter proposes a saturated robust adaptive tracking controller for a quadrotor based on nonlinear Lyapunov-theory, where a set of estimation laws are designed to compensate for uncertain parameters and disturbances, achieving global uniformly ultimately boundedness (GUUB). Additionally, through the use of saturation functions, the designed thrust force is ensured to be bounded by a predefined value. Numerical simulation examples are presented and discussed to validate the effectiveness of the proposed solution. To further highlight the enhancements of the presented method, comparison results with an existing control strategy are provided and analyzed.
 
 # Summary. An optional shortened abstract.
-summary: This letter proposed a solution to the trajectory tracking control problem with application to an underactuated quadrotor, guaranteeing that the vehicle was able to track its desired trajectory with arbitrarily small position error. To deal with the effect of uncertain system mass, moment of inertial and external disturbances, estimation laws for them were designed and incorporated into the control inputs, attaining robust adaptive performance. Saturation functions were introduced in the control laws to ensure that the designed thrust force is always bounded. In order to demonstrate the performance of the developed control strategy, simulation results were given and analyzed.
+summary: This letter proposed a solution to the trajectory tracking control problem with application to an underactuated quadrotor, guaranteeing that the vehicle was able to track its desired trajectory with arbitrarily small position error. 
 
 tags:
 - Source Themes

@@ -76,6 +76,8 @@ user_groups:
   - Principal Investigators
 ---
 
+# Biography
+
 谢威 is a Ph.D. supervisor at Shanghai Jiao Tong University and holds a dual appointment at Hanjiang Laboratory. He is a highly respected researcher and scholar renowned for his significant contributions in the field of automation. 
 
 Professor Xie specializes in the areas of control theory, robotics, intelligent systems, and industrial automation. His research endeavors have yielded notable advancements in control algorithms, robotic design, and intelligent systems, leading to practical applications across various industries. Professor Xie's profound expertise and achievements have garnered prestigious awards and accolades, establishing him as an authoritative figure in the realm of automation.

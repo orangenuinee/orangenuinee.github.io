@@ -25,13 +25,13 @@ publishDate: '2021-02-02T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Industrial Electronics*
+publication: In *IEEE Transactions on Industrial Electronics*, 2021
 publication_short: In *IEEE TIE*
 
 abstract: In this article, we propose a solution to the problem of path following for a quadcopter aircraft with unknown vehicle parameters (mass and moment of inertia) and external disturbances. By employing the backstepping technique, the proposed adaptive control strategy guarantees the following. The quadcopter is globally steered toward, and kept within, an arbitrarily small neighborhood of a desired smooth path, achieving global uniformly ultimately boundedness; compared to trajectory tracking, a smoother convergence is obtained as the control actuation signals (thrust force and torque) are bounded with respect to the position error, and the designed timing law ensures that the desired path starts to move only when the vehicle gets close to the desired path; and a single adaptive control law can be used for accurate motion control of aerial vehicles with a wide range of inertial properties, without the need for retuning control gains or other parameters. Moreover, the controller is also made robust to external constant and slowly time-varying disturbances through the design of disturbance estimators. To demonstrate the effectiveness and performance of the proposed control strategies, simulation and experimental results are presented and analyzed.
 
 # Summary. An optional shortened abstract.
-summary: Building on the backstepping technique, this article presented a control strategy to stabilize an underactuated quadcopter along a predefined path in the presence of uncertain vehicle mass, moment of inertia, and external disturbances. To attain robust stabilization, mass, external disturbances, and unknown constant terms associated to the moment of inertia estimators were designed, making it possible for a same quadcopter aircraft to adapt to different loads and maintain the performance, and with that ease the application of the proposed controller to a group of quadcopter aircrafts with different weights and sizes. Furthermore, the stability proof, simulation, and experimental results were presented, validating the performance of the proposed control strategy. In respect to the future work, it would include the following.1.Designing time-varying disturbance observers for the vehicle to compensate for external time-varying disturbances. 2.Testing the developed controller in an outdoor environment where GPS and IMU are used to measure the states of the vehicle instead of the indoor motion capture system.
+summary: Building on the backstepping technique, this article presented a control strategy to stabilize an underactuated quadcopter along a predefined path in the presence of uncertain vehicle mass, moment of inertia, and external disturbances. 
 
 tags: []
 

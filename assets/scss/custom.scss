@@ -1,0 +1,81 @@
+.aaa-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+    width: auto;
+    height: 100%;
+    /* Adjust the height as needed */
+}
+
+.pub-margin {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.media.stream-item .article-title {
+    font-size: 18px;
+    /* 设置字体大小 */
+}
+
+.pub {
+    font-size: 16px;
+    /* 设置字体大小 */
+}
+
+.aaa-3 img {
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
+.pad {
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.mbb-4 {
+    margin-bottom: 1rem !important;
+}
+
+.full {
+    width: 100%;
+}
+
+.media.stream-item img {
+    max-width: 300px;
+    height: auto;
+    object-fit: cover;
+}
+
+.section-subheading-pub {
+    font-size: 18px;
+    font-family: "Lora", sans-serif;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+@media screen and (max-width: 800px) {
+    .media.stream-item img {
+        max-width: 80px;
+    }
+}
+
+.align-items-37 {
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+// body {
+//     font-family: inherit;
+//     font-size: 1rem;
+//     line-height: inherit;
+//     color: inherit;
+//     background-color: white;
+//     padding-top: 0;
+//     counter-reset: captions;
+//     overflow-x: hidden;
+//     // transform: scale(0.8);
+// }

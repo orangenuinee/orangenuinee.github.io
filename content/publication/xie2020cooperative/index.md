@@ -25,13 +25,13 @@ publishDate: '2020-11-12T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Systems Man Cybernetics-Systems*
+publication: In *IEEE Transactions on Systems Man Cybernetics-Systems*, 2020
 publication_short: In *TSMC*
 
 abstract: In this article, we address the task of cooperative path following control of multiple autonomous quadcopters in the presence of unknown external disturbances. Under the assumption that the communications among the vehicles are bidirectional and continuous, a synchronized path following strategy is proposed that regulates the speed of each vehicle along its path to reach consensus in relative position. Moreover, collision-free transient paths from the vehicle initial positions to a group of suitable selected positions along the desired paths are designed. Building on the backstepping technique, the proposed path following controller for each individual vehicle drives the quadcopter toward, and to stay within an arbitrarily small neighborhood of its corresponding desired path, achieving global uniformly ultimately boundedness. In addition, the devised controller guarantees that the actuations are bounded with respect to the position error. The controller is also made robust to external constant or slowly time-varying disturbances by the introduction of dynamic estimators for the disturbances. A projection operator is used to ensure that the estimates remain within the prescribed bounds and are sufficiently smooth to be backstepped. In order to validate the effectiveness and performance of the proposed methodology, we present and analyze both simulation and experimental results.
 
 # Summary. An optional shortened abstract.
-summary: This article presented a solution to the problem of CPF control of a group of underactuated autonomous quadcopters. First, we designed a path following controller for a single quadcopter, where the actuations are bounded functions of the position error. In addition, to attain robust stabilization, we designed disturbance estimators through the use of smooth projection operators. For multiple quadcopters, a synchronized path following methodology and collision-free transient paths from the initial positions to the suitable selected positions along the desired paths were proposed. The resulting controller achieves practical CPF for any initial condition and the error is ultimately bounded and can be rendered arbitrarily small. Simulation and experimental results were presented, validating the effectiveness and performance of the proposed control strategy.
+summary: This article presented a solution to the problem of CPF control of a group of underactuated autonomous quadcopters. 
 
 tags: []
 

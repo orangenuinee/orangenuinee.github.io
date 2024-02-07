@@ -7,11 +7,16 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Join Us
       text: |-
+      
         We are excited to invite you to join our research lab led by Professor Xie Xie at the Department of Automation, Shanghai Jiao Tong University. Our lab focuses on the cutting-edge fields of autonomous control of marine and port unmanned systems. We aim to explore innovative solutions and advance the state-of-the-art in this rapidly evolving domain.
 
+        ### Prospective Ph.D. and MS Students
+
         We are looking for motivated individuals who are passionate about autonomous systems and have a strong background in control engineering, automation, robotics, or related fields. As a member of our lab, you will have the opportunity to work on challenging research projects, collaborate with talented peers, and contribute to the development of next-generation autonomous systems.
+
+        ### Current Ph.D. and MS Students
 
         If you are an undergraduate student interested in pursuing a graduation project, we encourage you to contact us. We particularly welcome students in their second or third year to reach out to us in advance. For prospective graduate students, please feel free to contact us for inquiries regarding the upcoming admissions cycle.
 
@@ -52,23 +57,23 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: contact.jpg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
 ---

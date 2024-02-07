@@ -60,3 +60,9 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+mounts:
+  - source: blox
+    target: layouts/partials/blox/
+    includeFiles: '**.html'
+  - source: layouts
+    target: layouts

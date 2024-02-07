@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night:
-  font: native
-  font_size: L
+  font: rose
+  font_size: l
 
 # SEO
 
@@ -115,4 +115,4 @@ extensions:
 
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: mla

@@ -28,13 +28,13 @@ publishDate: '2018-08-26T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Control Systems Technology*
+publication: In *IEEE Transactions on Control Systems Technology*, 2018
 publication_short: In *TCST*
 
 abstract: In this paper, we address the tasks of trajectory tracking (TT) and path following (PF) for a hovercraft vehicle in the presence of uncertain parameters and unknown external disturbances. Building on the backstepping technique, the proposed TT (PF) control laws are able to drive a hovercraft toward and stay within a neighborhood of a reference trajectory (path), achieving global practical stability. Moreover, the devised control strategies also guarantee that the actuations remain bounded with respect to the position error. The controller is made robust to constant external disturbances and uncertain model parameters by the introduction of dynamic estimators for the disturbance and friction coefficients. A projection operator is used to ensure the estimates remain within prescribed bounds and are sufficiently smooth to be backstepped. In order to validate the efficacy and performance of the proposed controllers, we present and analyze both simulation and experimental results.
 
 # Summary. An optional shortened abstract.
-summary: This paper presented solutions to the tasks of TT and PF for an underactuated autonomous hovercraft. The proposed TT control laws are able to stabilize the vehicle to the neighborhood of the reference trajectory. In order to guarantee that the inputs are bounded, a saturation function was introduced thereby ensuring that the actuation does not grow unbounded as a function of the position error. In addition, to attain robust stabilization, disturbance and damping coefficient estimators were designed through the use of smooth projection operators while also ensuring that these remain bounded and do not suffer from the windup phenomenon. A PF control strategy was also presented, based on the same techniques but resulting in milder control inputs, which was also capable of driving the vehicle to the neighborhood of the desired path, following the desired speed profile. Experimental results with a model hovercraft were also presented so as to validate the performance and robustness of the proposed controllers.
+summary: This paper presented solutions to the tasks of TT and PF for an underactuated autonomous hovercraft. 
 
 tags: []
 
