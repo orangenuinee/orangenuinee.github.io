@@ -50,7 +50,7 @@ sections:
       title: 👋 Welcome to the group
       text: |
         <span style="font-size: 1em;">
-        Welcome to the Wei Xie Laboratory at Shanghai Jiao Tong University's Department of Automation! <br>The <b>Wei Xie Research Group</b> has been a center of excellence for Automation research, teaching, and practice since its founding. We are dedicated to advancing autonomous unmanned systems in marine and port environments. Led by Dr. Wei Xie, our team conducts cutting-edge research in <b>robust control</b>, <b>backstepping control</b>, and <b>motion control</b>. We collaborate with industry partners and welcome passionate students to join our research endeavors. Explore our website to learn more about our work.</br></span>
+        Welcome to the Marine and Port Intelligent Systems Laboratory at Shanghai Jiao Tong University's Department of Automation! <br>The <b>Marine and Port Intelligent Systems Laboratory</b> has been a center of excellence for Automation research, teaching, and practice since its founding. We are dedicated to advancing autonomous unmanned systems in marine and port environments. Led by Dr. Wei Xie, our team conducts cutting-edge research in <b>robust control</b>, <b>backstepping control</b>, and <b>motion control</b>. We collaborate with industry partners and welcome passionate students to join our research endeavors. Explore our website to learn more about our work.</br></span>
         
 
     design:  
@@ -105,14 +105,14 @@ sections:
   #     spacing:
   #       padding: ["20px", "0", "20px", "0"]
   #     css_class: fullscreen
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="test" >}}
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="test" >}}
+    design:
+      columns: '1'
   - block: markdown
     content:
       title: News

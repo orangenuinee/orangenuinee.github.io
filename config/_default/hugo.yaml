@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wei Xie's Lab # Website name
+title: Marine and Port Intelligent Systems Laboratory # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
